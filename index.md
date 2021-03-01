@@ -1,14 +1,14 @@
 # Marvel*maníaco*
 -----
-# ![Marvel*maníaco*](MarvelLogo.svg)
+![Marvel*maníaco*](MarvelLogo.svg)
 
 ##*Blog para fans del UCM y los comics*
 
 ### NOVEDADES Y ESTRENOS
----
+----
 #### WandaVisión
 ----
-#### ![WandaVisión](wandavisión.jpg) *- Easter eggs y curiosidades*
+![WandaVisión](wandavisión.jpg) *- Easter eggs y curiosidades*
 El 15 de Enero de este año, la plataforma de contenido en streaming [***DisneyPlus***](http://www.disneyplus.com/es-es), <http://www.disneyplus.com/es-es>, estrenó la esperada serie sobre la humana *"mejorada"* Wanda Maximoff y el *"Sintetizoide"* de *Vibranium* Visión. Serie que aquí en España se denomina **Bruja Escarlata y Visión**, (como los conocemos en los comics), debido a un tema de ***Copyright***. 
 Dicha serie se situa justo después de los eventos acontecidos en *Avengers**Endgame***, y nos sirve de preámbulo para introducirnos de lleno en la ***Fase4*** del UCM.
 
@@ -28,8 +28,7 @@ function test(){
 
 
 
-
-
-
-
-
+```
+#####- ¿De dónde venimos?
+----
+El seguidor más incondicional sabrá de sobra, a estas alturas \"de la película", (nunca mejor dicho),qué es lo que ha acontecido hasta el momento del estreno de *BrujaEscarlata y Visión*.

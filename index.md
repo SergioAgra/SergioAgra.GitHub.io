@@ -72,7 +72,7 @@ Como ya hemos dicho, Wanda visión sirve de pistoletazo de salida para la *FASE4
 
 ![FASE4](FASE4.jpg)
 
-Tras los eventos de ***EndGame***, sabemos que en principio y salvo sorpresa no contaremos más con la presencia de *Tony Stark*, (Iron man), que tras arrebatarle a *Thanos* las **Gemas del infinito** en el último instante, (antes de que éste chasquee los dedos de nuevo), experimentando su inmeso poder y logrando con su último aliento hacer el movimiento de dedos mencionado; consiguiendo así la desaparición de Thanos y todo su ejército, (para siempre en ésta ocasión). Pero con el resultado final de la muerte del /"héroe de brillante armadura".
+Tras los eventos de ***EndGame***, sabemos que en principio y salvo sorpresa no contaremos más con la presencia de *Tony Stark*, (Iron man), que tras arrebatarle a *Thanos* las **Gemas del infinito** en el último instante, (antes de que éste chasquee los dedos de nuevo), experimentando su inmeso poder y logrando con su último aliento hacer el movimiento de dedos mencionado; consiguiendo así la desaparición de Thanos y todo su ejército, (para siempre en ésta ocasión). Pero con el resultado final de la muerte del "héroe de brillante armadura".
 
 También, (y a la espera de saber en que época transcurre la trama de *Black Widow*), sabemos que *Natasha Romanov* no aparecerá más en próximas producciones, obviando la ya mencionada película sobre su historia personal.
 

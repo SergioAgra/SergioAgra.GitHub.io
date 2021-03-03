@@ -30,9 +30,14 @@ function test(){
 
 
 ```
+---
 #####¿De dónde venimos?
 
-El seguidor más incondicional sabrá, de sobra, a estas alturas \"de la película", (nunca mejor dicho),qué es lo que ha acontecido hasta el momento, ahora que llega a nuestras pantallas la muy esperada "WandaVision" (título en su versión original). No obstante, para los que no hayan visulizado al menos dos o tres, de las 23 películas, (contando el film de Hulk de 2008 protagonizada por *Edaward Norton*) del UCM estrenadas hasta el momento, difícilmente podrán orientarse y entender el porqué de muchos de los echos y situaciones narradas en esta nueva serie.
+El seguidor más incondicional sabrá, de sobra, a estas alturas \"de la película", (nunca mejor dicho),qué es lo que ha acontecido hasta el momento, ahora que llega a nuestras pantallas la muy esperada "WandaVision" (título en su versión original). No obstante, para los que no hayan visulizado al menos dos o tres, de las 23 películas, (contando el film de Hulk de 2008 protagonizada por *Edaward Norton*) del UCM estrenadas hasta el momento, difícilmente podrán orientarse y entender, el porqué de muchos de los echos y situaciones narradas en esta nueva serie.
+
+#####¿Hacia dónde vamos?
+
+Como ya hemos dicho, Wanda visión sirve de pistoletazo de salida para la *FASE4*. ¿Pero que es la *fase 4*? Muy sencillo, es la nueva etapa establecida después de los echos narrados en **Vengadores End Game**, y en **Spiderman lejos de casa**, ambas las últimas producciones de la *FASE3*
 
 
 

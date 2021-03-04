@@ -9,6 +9,7 @@
 #### WandaVisión
 ----
 ![WandaVisión](wandavisión.jpg) 
+
 ***características y curiosidades***
 
 El 15 de Enero de este año, la plataforma de contenido en streaming [***DisneyPlus***](http://www.disneyplus.com/es-es), <http://www.disneyplus.com/es-es>, estrenó la esperada serie sobre la humana *"mejorada"* Wanda Maximoff y el *"Sintetizoide"* de *Vibranium* Visión. Serie que aquí en España se denomina **Bruja Escarlata y Visión**, (como los conocemos en los comics), debido a un tema de ***Copyright***. 

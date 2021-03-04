@@ -92,6 +92,8 @@ Pero también habíamos podido comprobar que *Visión* nos había dejado para si
 - Los Eternos (5 DE NOVIEMBRE)
 - Hawkeye (FINALES DE 2021)
 
+Y podríamos seguir listando futuros estrenos, pues el plan de Marvel Studios es ambicioso de cara al nuevo horizonte que se abre con la *FASE4*. Estrenos como THor ***Love and Thunder*** o *Blade* forman parte de los estrenos futuros a partir de 2022 en adelante, así como *Capitana Marvel2* o la segunda parte de *Doctor Strange*. A continuación podrás ver una enlace a las [refencias](https://github.com/SergioAgra/referenciasGitHub.io.git) que amparan la información optenida.
+
 
 
 

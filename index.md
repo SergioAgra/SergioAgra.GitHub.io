@@ -1,5 +1,6 @@
 # Marvel*maníaco*
 -----
+
 ![Marvel*maníaco*](MarvelLogo.svg)
 
 ## *Blog para fans del UCM y los comics*

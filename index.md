@@ -3,7 +3,7 @@
 
 ![Marvel*maníaco*](MarvelLogo.svg)
 
-## *Blog para fans del UCM y los comics*
+## *Blog para los fans del UCM y los comics*
 
 ### NOVEDADES Y ESTRENOS
 
